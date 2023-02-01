@@ -9,3 +9,10 @@ We currently have our infrastructure split into different areas. We have monitor
 Apps are split into the api, databases and also for the kubernetes cluster itself.
 
 ## New Infrastructure
+
+## Civo Kubernetes Cluster
+
+[Terraform with Civo](https://www.civo.com/docs/overview/terraform) | [Kubernetes Volumes](https://www.civo.com/docs/kubernetes/kubernetes-volumes)
+
+Follow this to get going:
+
